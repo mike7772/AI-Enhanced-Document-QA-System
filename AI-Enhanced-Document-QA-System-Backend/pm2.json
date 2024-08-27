@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "AI-Enhanced-Document-QA-System-Backend",
+        "script": "npm",
+        "args": "start"
+    }]
+}

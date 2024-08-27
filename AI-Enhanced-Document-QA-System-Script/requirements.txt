@@ -1,0 +1,5 @@
+python-dotenv
+pinecone-client
+bertopic
+transformers
+torch
